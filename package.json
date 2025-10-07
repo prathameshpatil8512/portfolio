@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://prathameshpatil8512.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -28,6 +29,5 @@
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
-  },
-  "homepage": "https://prathameshpatil8512.github.io/portfolio/"
+  }
 }
